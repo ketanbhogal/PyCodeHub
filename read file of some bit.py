@@ -1,0 +1,8 @@
+# USE OPEN IT WILL BE OPEN THE FILE
+
+f=open("SAMPLE.txt",'r')
+# F.READ WITH THE HELP WE CAN READ THE FILE of SOME BIT 
+data=f.read(10)
+print(data)
+# WITH THE HELP OF F.CLOSE WE CLOSE THE FILE
+f.close()

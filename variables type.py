@@ -1,0 +1,9 @@
+d=(5<2)
+print(d)
+a=200
+b=10.20
+c="ketan"
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
